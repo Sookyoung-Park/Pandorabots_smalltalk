@@ -394,4 +394,8 @@
 <template><srai>HOBBIES</srai></template>
 </category>
 
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
 </aiml>
